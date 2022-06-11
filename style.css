@@ -77,7 +77,7 @@ body img {
     width: 100%;
     height: 100%;
     z-index: 99999;
-    background-color: #362B2E;
+    background-color: #000000;
 }
 
 .doc-loader img {
@@ -140,12 +140,12 @@ a.button:hover {
 
 .content-left::-webkit-scrollbar-track {
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
-    background-color: #554247;
+    background-color: #141414;
 }
 
 .content-left::-webkit-scrollbar {
     width: 7px;
-    background-color: #554247;
+    background-color: #141414;
 }
 
 .content-left::-webkit-scrollbar-thumb {
@@ -343,7 +343,7 @@ img.my-info-signature {
 }
 .current-big-num {
     font-size: 160px;
-    -webkit-text-stroke: 3px #c6646b;
+    -webkit-text-stroke: 3px #4935b5;
     color: transparent;
     font-weight: 800;
     line-height: 100%;
@@ -365,7 +365,7 @@ img.my-info-signature {
     margin-left: -20px;
     bottom: 25px;
     margin-top: -35px;
-    box-shadow: inset 0 0 0 3px #c6646b;
+    box-shadow: inset 0 0 0 3px #4935b5;
     border-radius: 25px;
     transition: right .5s;
 }
@@ -374,7 +374,7 @@ img.my-info-signature {
     content: '';
     width: 8px;
     height: 8px;
-    background: #c6646b;
+    background: #4935b5;
     margin-left: -4px;
     top: 8px;
     border-radius: 4px;
@@ -391,7 +391,7 @@ img.my-info-signature {
     content: "";
     position: absolute;
     z-index: -1;
-    background-color: #362b2e;
+    background-color: #000000;
     width: 58px;
     height: 80px;
     border-radius: 25px;
@@ -507,7 +507,7 @@ img.my-info-signature {
 }
 
 .sm-clean a span.sub-arrow {
-    color: #c6646b;
+    color: #4935b5;
 }
 
 .main-menu.sm-clean .sub-menu li a {
@@ -740,9 +740,9 @@ h1.entry-title {
 }
 
 .category-filter-list {
-    background-color: #362b2e;
+    background-color: #141414;
     padding: 24px 20px;
-    width: 110px;
+    width: 210px;
     display: none;
     position: absolute;
     right: 0;
