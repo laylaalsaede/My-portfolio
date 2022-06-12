@@ -104,7 +104,7 @@ p {
 
 a.button {
     display: inline-block;
-    color: #faefff;
+    color: #ffffff;
     border: 2px solid #4935b5;
     text-align: center;
     padding: 12px 38px;
@@ -186,7 +186,7 @@ a.button:hover {
     -webkit-transition: all 0.25s;
     transition: all 0.25s;
     top: 8px;
-    background-color: #faefff;
+    background-color: #ffffff;
 }
 
 #toggle:before {
@@ -229,7 +229,7 @@ a.button:hover {
     transition: all 0.25s;
     margin-left: 0;
     top: 8px;
-    background-color: #faefff;
+    background-color: #ffffff;
 }
 
 #toggle:hover .menu-line {
@@ -265,7 +265,7 @@ a.button:hover {
 }
 
 .total-pages-num {
-    color: #faefff;
+    color: #ffffff;
 }
 
 .pagination-div {
@@ -281,7 +281,7 @@ a.button:hover {
     position: absolute;
     height: 3px;
     width: 100%;
-    background-color: #faefff;
+    background-color: #ffffff;
     top: 12px;
 }
 
@@ -305,7 +305,7 @@ a.button:hover {
 }
 
 .my-info-content {
-    color: #faefff;
+    color: #ffffff;
 }
 
 img.my-info-signature {
@@ -749,7 +749,7 @@ h1.entry-title {
     top: 15px;
     font-size: 13px;
     line-height: 22px;
-    color: #faefff;
+    color: #ffffff;
     z-index: 1;
     cursor: pointer;
     transition: opacity .5s, transform .5s;
@@ -857,14 +857,14 @@ h1.entry-title {
     font-size: 28px;
     line-height: 100%;
     font-weight: 700;
-    color: #faefff;
+    color: #ffffff;
     margin-bottom: 0;
     padding-bottom: 5px;
 }
 
 .portfolio-cat {
     font-size: 15px;
-    color: #faefff;
+    color: #ffffff;
     line-height: 100%;
 }
 
@@ -873,7 +873,7 @@ h1.entry-title {
     display: inline-block;
     width: 25px;
     height: 1px;
-    background-color: #faefff;
+    background-color: #ffffff;
     vertical-align: 4px;
     margin-right: 5px;
 }
@@ -1057,7 +1057,7 @@ div.pp_default .pp_description {
 
 .owl-theme .owl-dots .owl-dot span {
     margin: 0;
-    background-color: #faefff;
+    background-color: #ffffff;
     transition: all .3s ease;
     width: 18px;
     height: 18px;
@@ -1071,7 +1071,7 @@ div.pp_default .pp_description {
 }
 
 .owl-theme .owl-dots .owl-dot:hover span {
-    background-color: #faefff;
+    background-color: #ffffff;
 }
 
 .owl-theme .owl-dots .owl-dot.active span {
@@ -1097,7 +1097,7 @@ li.timeline-event {
 }
 
 li.timeline-event:hover {
-    color: #faefff;
+    color: #ffffff;
 }
 
 li.timeline-event:before {
